@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saboryn-technologies-limited.github.io/Saboryn-technologies-limited-/sitemap.xml
